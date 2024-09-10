@@ -3,7 +3,6 @@ Project Gnode aims to provide an easier an efficient method to use different kin
 ---
 # Plans
 according to [wikipedia's list of Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) the mose well known graphs are :
-- [ ] Graph
 - [ ] Adjacency list
 - [ ] Adjacency matrix
 - [ ] Graph-structured stack
